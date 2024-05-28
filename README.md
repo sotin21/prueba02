@@ -8,6 +8,6 @@ Adiocnalmente generaremos un Menu que cumpla todas las funcionalidades que nos p
 Gestion de elecciones, registro de los candidatos a las elecciones, los votantes en cada eleccion.
 
 
-
+pd: le pregunte a chatgpt como crear las ventanas porque no sabia.
 
 by Sebastian Soto 
